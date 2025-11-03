@@ -1,4 +1,7 @@
 這是一個 WEB 服務
+
+[![翻譯代理工作流程](./translation_agent_workflow.jpg)](https://drive.google.com/file/d/1tWzuiiDTjpDrknoXpb1JHdP2zQRAbaTy/view?usp=sharing)
+
 - 使用者上傳英文文稿內容（html2md, md skip, url-download-html2md）
 - ai 初步翻譯成 draft
 - ai 依照英文原文與 draft 翻譯作校稿，給出評論 review
